@@ -1,0 +1,17 @@
+# Python cache and virtual environment
+__pycache__/
+_transformers_implementation_py310/
+
+# VSCode settings
+.vscode/
+
+# secret credentials
+.env
+
+# Logs
+logs/
+*.log
+
+# Datasets and large files
+data/
+outputs/

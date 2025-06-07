@@ -1,0 +1,13 @@
+data:
+  dataset: 'CIFAR10'
+  data_path: '/home/wd/Documents/work_stuff/ViT_REPLICATION/data/CIFAR10'
+  batch_size: 64
+  num_workers: 4
+  img_size: 32
+
+model:
+  name: 'transformer_minimal'
+
+train:
+  epochs: 10
+  lr: 0.001
