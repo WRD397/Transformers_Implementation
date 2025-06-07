@@ -5,3 +5,4 @@ Paper : https://arxiv.org/abs/1706.03762
 
 Related Papers :
 - LayerNorm : https://arxiv.org/abs/1607.06450
+- ResNet(Concept of Residual Connection) : https://arxiv.org/abs/1512.03385
