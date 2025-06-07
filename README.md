@@ -4,4 +4,4 @@ Step by step implementation of Transformers architecture, primarily by focusing 
 Paper : https://arxiv.org/abs/1706.03762
 
 Related Papers :
-LayerNorm : https://arxiv.org/abs/1607.06450
+- LayerNorm : https://arxiv.org/abs/1607.06450
